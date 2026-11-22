@@ -1,6 +1,6 @@
 # 📚 AI-Powered PDF Study Assistant (GenAI · LLM · RAG)
 
-![App screenshot](docs/images/![App screenshot](docs/images/screenshot.png))
+![App screenshot](docs/images/screenshot.png)
 
 Upload your study PDFs, ask questions in a chat window, and get answers that come **only from your documents**, with the file name and page numbers used as evidence.
 
