@@ -1,6 +1,6 @@
 # 📚 AI-Powered PDF Study Assistant (GenAI · LLM · RAG)
 
-🔗 **Live demo:** https://your-app-name.streamlit.app
+🔗 **Live demo:** https://pdf-study-assistant-9icu8dfdhuvlapfcbnikyf.streamlit.app
 
 ![App screenshot](docs/images/screenshot.png)
 
