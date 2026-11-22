@@ -1,0 +1,31 @@
+# Secrets
+.env
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache / build
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Model caches, indexes and local data
+.cache/
+*.faiss
+*.pkl
+data/
+uploads/
+
+# Streamlit local secrets
+.streamlit/secrets.toml

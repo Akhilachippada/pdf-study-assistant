@@ -1,0 +1,20 @@
+# Version ranges allow compatible minor upgrades while blocking surprise major changes.
+# Python 3.10+ is required (3.11 or 3.12 recommended).
+
+# UI
+streamlit>=1.40,<2
+
+# LangChain (modern split packages; no deprecated `langchain.chains` APIs are used)
+langchain-core>=0.3,<2
+langchain-community>=0.3,<1
+langchain-text-splitters>=0.3,<2
+langchain-huggingface>=0.1,<2
+langchain-groq>=0.2,<2
+
+# Embeddings + vector search
+sentence-transformers>=3.0,<6
+faiss-cpu>=1.8,<2
+
+# PDF + config
+pypdf>=5.0,<7
+python-dotenv>=1.0,<2
